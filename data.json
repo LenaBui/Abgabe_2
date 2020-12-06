@@ -1,0 +1,44 @@
+{
+    "alleWaffeln": [
+        {
+            "bild": "bilder/waffel1.png",
+            "typ": 0
+        },
+        {
+            "bild": "bilder/waffel2.png",
+            "typ": 0
+        },
+        {
+            "bild": "bilder/waffel3.png",
+            "typ": 0
+        }
+    ],
+    "alleEiskugeln": [
+        {
+            "bild": "bilder/eiskugel1.png",
+            "typ": 1
+        },
+        {
+            "bild": "bilder/eiskugel2.png",
+            "typ": 1
+        },
+        {
+            "bild": "bilder/eiskugel3.png",
+            "typ": 1
+        }
+    ],
+    "alleToppings": [
+        {
+            "bild": "bilder/topping1.png",
+            "typ": 2
+        },
+        {
+            "bild": "bilder/topping2.png",
+            "typ": 2
+        },
+        {
+            "bild": "bilder/topping3.png",
+            "typ": 2
+        }
+    ]
+}
